@@ -8,4 +8,4 @@ Validate web application works using curl.
 
 Or select the link below to view the we application in a browser.
 
-https://[[HOST_SUBDOMAIN]]-32321-[[KATACODA_HOST]].environments.katacoda.com
+https://[[HOST_SUBDOMAIN]]-[[KATACODA_HOST]].environments.katacoda.com
