@@ -71,7 +71,7 @@
     "assets": {
       "host01": [
        {
-         "file": "kuard-pod.yaml",
+         "file": "nginx-pod.yaml",
          "target": "~/depoly-pods-in-kubernetes/pod-manifests/"
        }
       ]
