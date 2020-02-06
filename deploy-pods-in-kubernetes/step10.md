@@ -16,7 +16,7 @@ As long as the port-forward command is still running, you can access the Pod (in
 [http://localhost:8080](https://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.kacoda.com)
 
 
-`Send Ctrl+C before running Terminal`{{execute interrupt}}
+`echo "Send Ctrl+C before running Terminal"`{{execute interrupt}}
 
 
 
