@@ -8,3 +8,5 @@ You may initially see the container as Pending, but eventually you will see it t
 Alternatively, you can watch the pod being created by using the following command:
 
 `kubectl get pods -w`{{execute}}
+
+`Send Ctrl+C before running Terminal`{{execute interrupt}}
