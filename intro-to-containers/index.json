@@ -129,7 +129,7 @@
   "environment": {
     "uilayout": "terminal",
     "showdashboard": true,
-    "dashboard": [{"name": "Display 80", "port": 80}, {"name": "Display 32321", "port": 32321}]
+    "dashboards": [{"name": "Display 80", "port": 80}, {"name": "Display 32321", "port": 32321}]
   },
   "backend": {
     "imageid": "kubernetes"
