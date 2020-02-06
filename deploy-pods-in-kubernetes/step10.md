@@ -13,7 +13,7 @@ When you run:
 a secure tunnel is created from your local machine, through the Kubernetes master, to the instance of the Pod running on one of the worker nodes.
 
 As long as the port-forward command is still running, you can access the Pod (in this case the kuard web interface) at
-[http://localhost:8080](https://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.kacoda.com)
+[http://localhost:8080](https://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com)
 
 
 `echo "Send Ctrl+C before running Terminal"`{{execute interrupt}}
