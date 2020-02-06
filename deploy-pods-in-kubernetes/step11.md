@@ -5,4 +5,4 @@ Sometimes logs are insufficient, and to truly determine what’s going on you ne
 
 You can also get an interactive session by adding the -it flags:
 
-`echo kubectl exec -it nginx bash`{{execute}}
+`kubectl exec -it nginx --  bash`{{execute}}
