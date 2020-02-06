@@ -9,4 +9,6 @@ Alternatively, you can watch the pod being created by using the following comman
 
 `kubectl get pods -w`{{execute}}
 
-`Send Ctrl+C before running Terminal`{{execute interrupt}}
+Run the below command to exit once the Pod is running
+
+`echo "Send Ctrl+C before running Terminal"`{{execute interrupt}}
