@@ -71,15 +71,15 @@
     },
     "finish": {
       "text": "finish.md"
+    },
+    "assets": {
+      "host01": [
+       {
+         "file": "kuard-pod.yaml",
+         "target": "~/depoly-pods-in-kubernetes/pod-manifests/"
+       }
+      ]
     }
-  },
-  "assets": {
-    "host01": [
-      {
-        "file": "kuard-pod.yaml",
-        "target": "~/depoly-pods-in-kubernetes/pod-manifests/"
-      }
-    ]
   },
 
   "environment": {
