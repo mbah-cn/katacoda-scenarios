@@ -1,1 +1,0 @@
-In this scenario, you will build a docker Node.js application.
