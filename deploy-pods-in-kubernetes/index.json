@@ -7,8 +7,7 @@
     "steps": [
       {
         "title": "Step 1",
-        "code": "setup.sh",
-        "courseData": "run-kubernetes.sh",
+        "courseData": "setup.sh",
         "text": "step1.md"
       },
       {
