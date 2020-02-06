@@ -3,7 +3,7 @@ Pod manifests can be written using YAML or JSON, but YAML is generally preferred
 
 Pod manifests include a couple of key fields and attributes: namely a **metadata section** for describing the Pod and its labels, a **spec section** for describing volumes, and a list of containers that will run in the Pod.
 Navigate to the ~/depoly-pods-in-kubernetes/pod-manifests/ directory
-`echo "cd ~/depoly-pods-in-kubernetes/pod-manifests/ && ls"`{{execute}}
+`cd ~/depoly-pods-in-kubernetes/pod-manifests/ && ls`{{execute}}
 
 Cat the kuard-pod.yaml to inspect its content:
-`echo "cat kuard-pod.yaml"`{{execute}}
+`cat kuard-pod.yaml`{{execute}}

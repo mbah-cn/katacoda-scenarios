@@ -3,7 +3,7 @@ Sometimes, the single-line view is insufficient because it is too terse. Additio
 
 To find out more information about a Pod (or any Kubernetes object) you can use the kubectl describe command. For example, to describe the Pod we previously created, you can run:
 
-`echo "kubectl describe pods kuard"`{{execute}}
+`kubectl describe pods kuard`{{execute}}
 This outputs a bunch of information about the Pod in different sections. At the top is basic information about the Pod:
 ```
 Name:           kuard

@@ -8,7 +8,7 @@ To achieve this, you can use the port-forwarding support built into the Kubernet
 
 When you run:
 
-`echo "kubectl port-forward kuard 8080:8080"`{{execute}}
+`kubectl port-forward kuard 8080:8080`{{execute}}
 
 a secure tunnel is created from your local machine, through the Kubernetes master, to the instance of the Pod running on one of the worker nodes.
 
