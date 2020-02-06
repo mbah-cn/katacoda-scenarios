@@ -1,11 +1,11 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: kuard
+  name: nginx
 spec:
   containers:
-    - image: gcr.io/kuar-demo/kuard-amd64:blue
-      name: kuard
+    - image: nginx
+      name:  nginx
       ports:
         - containerPort: 8080
           name: http

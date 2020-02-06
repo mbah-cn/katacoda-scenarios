@@ -1,4 +1,4 @@
 #! /bin/bash
 cd ~
 service docker restart
-echo "Welcome to Into to Containers!"
+echo "Welcome to Deploying Pods in Kubernetes"
