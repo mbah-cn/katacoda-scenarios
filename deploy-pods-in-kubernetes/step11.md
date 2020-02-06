@@ -6,3 +6,7 @@ Sometimes logs are insufficient, and to truly determine what’s going on you ne
 You can also get an interactive session by adding the -it flags:
 
 `kubectl exec -it nginx --  bash`{{execute}}
+
+Type exit to exit the container interactive session:
+
+`exit`{{execute}}
