@@ -9,7 +9,7 @@ You can see the name of the Pod (kuard) that we gave it in the previous YAML fil
 If you ran this command immediately after the Pod was created, you might see:
 ```
 NAME       READY     STATUS    RESTARTS   AGE
-kuard      0/1       Pending   0          1s
+nginx      0/1       Pending   0          1s
 
 ```
 

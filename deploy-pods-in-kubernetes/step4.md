@@ -5,5 +5,5 @@ Pod manifests include a couple of key fields and attributes: namely a **metadata
 Navigate to the ~/depoly-pods-in-kubernetes/pod-manifests/ directory
 `cd ~/depoly-pods-in-kubernetes/pod-manifests/ && ls`{{execute}}
 
-Cat the kuard-pod.yaml to inspect its content:
-`cat kuard-pod.yaml`{{execute}}
+Cat the nginx-pod.yaml to inspect its content:
+`cat nginx-pod.yaml`{{execute}}
