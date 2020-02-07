@@ -2,7 +2,8 @@
 When it is time to delete a Pod, you can delete it either by name:
 
 `kubectl delete pods/nginx`{{execute}}
-or using the same file that you used to create it:
+
+You can also use the same file that you used to create it:
 
 `kubectl delete -f nginx-pod.yaml`{{execute}}
 
