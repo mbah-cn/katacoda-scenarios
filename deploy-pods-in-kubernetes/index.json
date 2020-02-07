@@ -46,7 +46,8 @@
       },
       {
         "title": "Step 9",
-        "code": "cdir.sh",
+        "code": "clear.sh",
+        "courseData": "cdir.sh",
         "text": "step9.md"
       },
       {
