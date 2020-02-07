@@ -1,5 +1,5 @@
 ## Running Pods
-In the previous step, we created a Pod manifest that can be used to start a Pod running kuard. Use the kubectl apply command to launch a single instance of kuard:
+In the previous step, we created a Pod manifest that can be used to start a Pod running nginx. Use the kubectl apply command to launch a single instance of nginx:
 
 `kubectl apply -f nginx-pod.yaml`{{execute}}
 
