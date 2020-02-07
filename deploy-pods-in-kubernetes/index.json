@@ -2,7 +2,7 @@
   "title": "Deploying Pods in Kubernetes",
   "description": "Learn how to deploy Pod using the imperative as well as the declarive way",
   "difficulty": "Beginner",
-  "time": "30 minutes",
+  "time": "10 minutes",
   "details": {
     "steps": [
       {
